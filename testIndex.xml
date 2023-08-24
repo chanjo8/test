@@ -206,7 +206,6 @@
       <item ref="spanish_grammars" />
       <item ref="state_union" />
       <item ref="stopwords" />
-	  <item ref="test123" />
       <item ref="subjectivity" />
       <item ref="swadesh" />
       <item ref="switchboard" />
@@ -254,7 +253,6 @@
       <item ref="senseval" />
       <item ref="state_union" />
       <item ref="stopwords" />
-      <item ref="test123" />
       <item ref="swadesh" />
       <item ref="timit" />
       <item ref="treebank" />
@@ -367,7 +365,6 @@
       <item ref="spanish_grammars" />
       <item ref="state_union" />
       <item ref="stopwords" />
-	  <item ref="test123" />
       <item ref="subjectivity" />
       <item ref="swadesh" />
       <item ref="switchboard" />
@@ -487,7 +484,6 @@
       <item ref="smultron" />
       <item ref="state_union" />
       <item ref="stopwords" />
-      <item ref="test123" />
       <item ref="subjectivity" />
       <item ref="swadesh" />
       <item ref="switchboard" />
@@ -520,7 +516,6 @@
       <item ref="names" />
       <item ref="shakespeare" />
       <item ref="stopwords" />
-      <item ref="test123" />
       <item ref="treebank" />
       <item ref="twitter_samples" />
       <item ref="omw" />
